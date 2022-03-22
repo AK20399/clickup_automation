@@ -1,0 +1,12 @@
+{
+  "name": "clickup_automation",
+  "description": "Automate clickup moving task status",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab","tabs","scripting"],
+  "incognito": "split",
+  "action": {
+    "default_icon": "clickupAutomationIcon.png",
+    "default_popup": "index.html"
+  }
+}

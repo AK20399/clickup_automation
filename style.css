@@ -1,0 +1,17 @@
+*,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  min-width: 50rem;
+  min-height: 10rem;
+}
+
+h2 {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
